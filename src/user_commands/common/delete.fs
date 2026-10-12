@@ -1,0 +1,3 @@
+/**Custom Code*/
+selectall();
+deleteselected();

@@ -1,0 +1,6 @@
+scenario,shuttles_per_aisle,inventory,inbound_totes,outbound_totes,empty_tote_returns,shuttle_cycle_s,inbound_lift_cycle_s,outbound_lift_cycle_s,transfer_lift_cycle_s,shuttle_util_pct,transfer_lift_util_pct,inbound_lift_util_pct,outbound_lift_util_pct
+1,9,2887,940,1431,5,12.06,4.57,6.44,7.02,19,97,34,38
+2,11,2892,940,1462,7,11.98,4.86,6.37,7.06,15,95,39,54
+3,13,2882,940,1477,6,12.04,5.05,6.42,7.08,14,83,40,60
+4,15,2884,940,1456,7,11.99,5.26,6.37,7.09,11,74,41,69
+5,17,2888,940,1445,5,11.98,5.55,6.52,7.17,10,68,45,74

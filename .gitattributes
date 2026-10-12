@@ -1,0 +1,4 @@
+# FlexScript, not F#
+*.fs linguist-detectable=false
+*.fsm binary
+*.fsl binary

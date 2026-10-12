@@ -1,0 +1,22 @@
+/**Custom Code*/
+lib();
+Rack();
+Queue();
+Elevator();
+conveyor_A1();
+Shuttle();
+SetShuttle();
+ruku_A1();
+SetRack();
+SetRackList();
+SetSource();
+SetQueueIn();
+CreateGroup();
+chuku();
+SetChuku();
+OriginalSource_2();
+//SetOriginalCombiner_2();
+SetOriginalSource_2();
+PickStation_A1();
+SetPickStation();
+CreateGroup2();
