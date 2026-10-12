@@ -132,7 +132,7 @@ lifts are. Data: [`results/fleet_size_experiment.csv`](results/fleet_size_experi
 | `src/` | The user commands, button scripts and custom ProcessFlow code, extracted as plain files so they can be read without FlexSim. See [`src/README.md`](src/README.md). |
 | `media/slides/` | Figures from the defense slides (Chinese labels): layout patterns, equipment coordinates, ProcessFlow. |
 | `results/` | Fleet-size results from the thesis tables and the script that draws the chart. |
-| `tools/extract_flexscript.py` | Reads the binary `.fsm` file and writes the user commands to `src/`. Written in 2026 for this repository. |
+| `tools/extract_flexscript.py` | Reads the binary `.fsm` file and writes the user commands to `src/`. Written later for this repository, not part of the thesis. |
 
 To try it, open the model in FlexSim, open the GUI `系统类型选择` (system type selection) under
 Toolbox > Graphical User Interfaces, and follow the pages.
@@ -140,3 +140,6 @@ Toolbox > Graphical User Interfaces, and follow the pages.
 ## License
 
 MIT. The thesis and slides are in Chinese; this summary was written for the repository.
+
+The FlexSim model and its FlexScript are my own thesis work. The extraction script in `tools/` and
+this README were written later with the help of an AI coding assistant.

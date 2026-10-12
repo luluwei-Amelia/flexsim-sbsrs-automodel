@@ -1,6 +1,6 @@
 """Extract the FlexScript in a FlexSim 2019 .fsm file into plain .fs files.
 
-Written in 2026 for this repository, not part of the 2021 thesis.
+Written later for this repository, not part of the thesis.
 
 A .fsm file is a 72-byte header followed by a gzip stream. The stream is a serialized tree in
 which each node starts with a flag byte, 7 more flag bytes, a data-type byte, a 32-bit name length
